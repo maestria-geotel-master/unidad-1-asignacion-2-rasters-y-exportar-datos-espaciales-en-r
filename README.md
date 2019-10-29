@@ -1,5 +1,5 @@
 
-# Unidad 1, asignación 1: datos espaciales en R
+# Unidad 1, asignación 2: exportar datos, leer ráster y extraer valores
 
 Sigo ayudando con `...`. Donde quiera que los veas, deberás sustituirlos
 por lo que indique el correspondiente mandato.
